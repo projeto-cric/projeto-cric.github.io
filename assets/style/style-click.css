@@ -15,18 +15,31 @@
   --tercery-color: #4de66e;
   --text-color: #fff;
   --text-color-black: #000;
+<<<<<<< HEAD
+=======
+  --medium-black: rgba(0, 0, 0, 0.6);
+>>>>>>> main
   --color-hover: rgb(180, 173, 173);
   font-size: 62.5%;
 }
 
 body {
   /* background-color: var(--tercery-color); */
+<<<<<<< HEAD
   background: url(./../img/james-hoey-T0eAoLwZB88-unsplash.jpg);
+=======
+  background-image: url(./../images/municipio-arroio-dos-ratos-bandeira-simb-brssrs0502501107.jpg);
+>>>>>>> main
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
+<<<<<<< HEAD
   backdrop-filter: blur(8px);
+=======
+  backdrop-filter: blur(5px) brightness(60%);
+  /* backdrop-filter: brightness(60%); */
+>>>>>>> main
 }
 
 
@@ -250,6 +263,13 @@ nav ul li a.nav-link{
 }
 
 
+<<<<<<< HEAD
+=======
+/* iframe {
+  position: absolute;
+} */
+
+>>>>>>> main
 .container {
   display: flex;
   flex-direction: column;
@@ -279,13 +299,24 @@ nav ul li a.nav-link{
   max-height: 100vh;
   width: 60rem;
   height: 30rem;
+<<<<<<< HEAD
   background-color: #000;
   /* margin-left: 10rem; */
+=======
+  /* background-color: #000; */
+  background-image: url("./../images/section-cities-desktop/imgs-antigas/arroio-dos-ratos.jpg");
+  background-size: cover;
+  background-position-y: center;
+>>>>>>> main
 }
 
 .flex-container .box-content {
   margin-left: 2rem;
+<<<<<<< HEAD
   background-color: var(--primary-color);
+=======
+  background-color: var(--medium-black);
+>>>>>>> main
   max-width: 100vw;
   max-height: 100vh;
   width: 100rem;
@@ -334,11 +365,21 @@ nav ul li a.nav-link{
   width: 60rem;
   height: 30rem;
   background-color: #000;
+<<<<<<< HEAD
+=======
+  background-image: url(./../images/section-cities-desktop/imgs-antigas/arroio-dos-ratos.jpg);
+  background-size: cover;
+  background-position-y: center;
+>>>>>>> main
 }
 
 .flex-container2 .box-content2 {
   margin-left: 2rem;
+<<<<<<< HEAD
   background-color: var(--primary-color);
+=======
+  background-color: var(--medium-black);
+>>>>>>> main
   max-width: 100vw;
   max-height: 100vh;
   width: 100rem;
@@ -387,11 +428,21 @@ nav ul li a.nav-link{
   width: 60rem;
   height: 30rem;
   background-color: #000;
+<<<<<<< HEAD
+=======
+  background-image: url(./../images/section-cities-desktop/imgs-antigas/arroio-dos-ratos.jpg);
+  background-size: cover;
+  background-position-y: center;
+>>>>>>> main
 }
 
 .flex-container3 .box-content3 {
   margin-left: 2rem;
+<<<<<<< HEAD
   background-color: var(--primary-color);
+=======
+  background-color: var(--medium-black);
+>>>>>>> main
   max-width: 100vw;
   max-height: 100vh;
   width: 100rem;

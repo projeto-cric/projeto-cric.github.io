@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let count = 0;
 let iconOpen = document.getElementById("icon-open");
 let iconClose = document.getElementById("icon-close");
@@ -22,3 +23,16 @@ function openAndCloseMenu() {
     count++;
 }
 
+=======
+/* ANIMAÇÃO CONFORME FOR DANDO SCROLL */
+ScrollReveal({
+    origin: 'top',
+    distance: '30px',
+    duration: 700,
+}).reveal(`
+    navbar-nav,
+    #baixo,
+    .image-main,
+    .group-cities
+`);
+>>>>>>> main
